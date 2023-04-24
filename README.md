@@ -1,5 +1,5 @@
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-What did you do particularly well?
+- The DriverPass project is a software system designed for a car rental company called "DriverPass". The client wants a system that allows customers to make reservations, view and modify their profiles, and download reports. The system also needs to provide administrative tools for the company to manage packages, view customer profiles and reservations, and collect and analyze data about business operations. The system will be accessible via web and mobile interfaces.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 - I would choose to improve the Sequence diagram to improve, by adding in if, else statements. This would add a layer of detail, and further clarification of what to happen when a hurdle is reached.
